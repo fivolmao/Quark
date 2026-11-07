@@ -23,7 +23,7 @@ declare(strict_types=1);
 
 namespace quark\command\defaults;
 
-use pocketmine\color\Color;
+use quark\utils\Color;
 use pocketmine\math\Vector3;
 use quark\block\BlockTypeIds;
 use quark\command\CommandSender;

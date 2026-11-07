@@ -23,7 +23,7 @@ declare(strict_types=1);
 
 namespace quark\item;
 
-use pocketmine\color\Color;
+use quark\utils\Color;
 use pocketmine\nbt\tag\CompoundTag;
 use quark\block\utils\DyeColor;
 use quark\data\bedrock\DyeColorIdMap;

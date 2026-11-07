@@ -7,7 +7,7 @@ namespace quark\item;
 use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 use pmmp\encoding\ByteBufferWriter;
-use pocketmine\color\Color;
+use quark\utils\Color;
 use pocketmine\nbt\tag\CompoundTag;
 use pocketmine\nbt\tag\ListTag;
 use pocketmine\network\mcpe\protocol\ItemRegistryPacket;

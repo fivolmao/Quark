@@ -23,7 +23,7 @@ declare(strict_types=1);
 
 namespace quark\world\particle;
 
-use pocketmine\color\Color;
+use quark\utils\Color;
 use pocketmine\math\Vector3;
 use pocketmine\network\mcpe\protocol\LevelEventPacket;
 use pocketmine\network\mcpe\protocol\types\ParticleIds;

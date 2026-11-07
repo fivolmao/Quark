@@ -23,7 +23,6 @@ Take a look at the table below if you can't find the class or function you're lo
 | Source URL                                                      | Namespace, class or function                                                                                                             |
 |:----------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 | [pocketmine/binaryutils](https://github.com/pmmp/BinaryUtils)         | `pocketmine\utils\BinaryDataException`</br>`pocketmine\utils\BinaryStream`</br>`pocketmine\utils\Binary`                                 |
-| [pocketmine/color](https://github.com/pmmp/Color)                     | `pocketmine\color`                                                                                                                       |
 | [pocketmine/errorhandler](https://github.com/pmmp/ErrorHandler)       | `pocketmine\errorhandler`                                                                                                                |
 | [pocketmine/log](https://github.com/pmmp/Log)                         | `AttachableLogger`</br>`BufferedLogger`</br>`GlobalLogger`</br>`LogLevel`</br>`Logger`</br>`PrefixedLogger`</br>`SimpleLogger`           |
 | [pocketmine/math](https://github.com/pmmp/Math)                       | `pocketmine\math`                                                                                                                        |

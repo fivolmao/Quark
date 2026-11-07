@@ -23,7 +23,7 @@ declare(strict_types=1);
 
 namespace quark\block;
 
-use pocketmine\color\Color;
+use quark\utils\Color;
 use pocketmine\math\Vector3;
 use quark\block\tile\Cauldron as TileCauldron;
 use quark\block\utils\DyeColor;

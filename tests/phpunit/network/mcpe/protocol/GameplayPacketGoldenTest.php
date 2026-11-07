@@ -24,7 +24,7 @@ declare(strict_types=1);
 namespace quark\network\mcpe\protocol;
 
 use PHPUnit\Framework\TestCase;
-use pocketmine\color\Color;
+use quark\utils\Color;
 use pocketmine\math\Vector3;
 use pocketmine\network\mcpe\protocol\ClientboundPacket;
 use quark\block\Block;

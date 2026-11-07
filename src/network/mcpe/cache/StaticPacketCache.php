@@ -24,7 +24,7 @@ declare(strict_types=1);
 namespace quark\network\mcpe\cache;
 
 use Bedwire\Nbt;
-use pocketmine\color\Color;
+use quark\utils\Color;
 use pocketmine\nbt\tag\CompoundTag;
 use pocketmine\network\mcpe\protocol\AvailableActorIdentifiersPacket;
 use pocketmine\network\mcpe\protocol\BiomeDefinitionListPacket;

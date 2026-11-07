@@ -23,7 +23,7 @@ declare(strict_types=1);
 
 namespace quark\item;
 
-use pocketmine\color\Color;
+use quark\utils\Color;
 use pocketmine\nbt\tag\CompoundTag;
 use pocketmine\utils\Binary;
 use quark\block\utils\DyeColor;

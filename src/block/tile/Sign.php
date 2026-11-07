@@ -23,7 +23,7 @@ declare(strict_types=1);
 
 namespace quark\block\tile;
 
-use pocketmine\color\Color;
+use quark\utils\Color;
 use pocketmine\math\Vector3;
 use pocketmine\nbt\tag\ByteTag;
 use pocketmine\nbt\tag\CompoundTag;
